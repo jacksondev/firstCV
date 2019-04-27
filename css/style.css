@@ -10,7 +10,7 @@ body {
 	font: 13px 'Open Sans', Arial, sans-serif;
 	line-height: 21px;
 	font-size: 100%;
-	color: #444;
+	color: #cb2727;
 }
 
 /* We tell all items to be 100% width */
@@ -21,7 +21,7 @@ body {
 .wrapper {
 	display: flex;
 	flex-flow: row wrap;
-	background: white;
+	background: rgb(255, 255, 255);
 	margin: 50px auto;
 	max-width: 1060px;
 }
@@ -119,7 +119,7 @@ main > article ~ article {
 .profile-name > small {
 	display: flex;
 	text-transform: uppercase;
-    color: #444;
+    color: rgb(33, 12, 230);
     font-size: 24px;
     line-height: 48px;
 }
